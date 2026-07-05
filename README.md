@@ -72,7 +72,7 @@ gastric-cancer-detection-gradcam/
 
 ## Author
 
-**Bensu Varol**
-MSc Computer Engineering Student
+**Bensu Varol**  
+MSc Computer Engineering Student  
 
 Research interests: Machine Learning, Deep Learning, Medical Image Analysis, Computer Vision, and Explainable AI
